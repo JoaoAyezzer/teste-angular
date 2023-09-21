@@ -1,0 +1,11 @@
+.header{
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #333;
+  position: sticky;
+}
+.logo{
+  width: 10rem;
+}
