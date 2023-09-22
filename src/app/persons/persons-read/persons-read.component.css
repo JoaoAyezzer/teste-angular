@@ -1,14 +1,12 @@
-.container{
-  display: flex;
-  width: 100vw;
-  height: 92vh;
-  background-color: #F5F5F5;
-}
 .content {
+  display: flex;
   height: 400px;
   overflow: auto;
+  width: 80vw;
 }
-
+.create-person-button{
+  margin-bottom: 1rem;
+}
 table {
   width: 100%;
 }

@@ -9,3 +9,11 @@
 .logo{
   width: 10rem;
 }
+.container{
+  display: flex;
+  width: 100vw;
+  height: 92vh;
+  background-color: #F5F5F5;
+  align-items: center;
+  justify-content: center;
+}
